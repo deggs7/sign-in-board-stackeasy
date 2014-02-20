@@ -1,4 +1,3 @@
-sign-in-board-stackeasy
-=======================
+# Develop based on 'TypeScript & AngularJS TodoMVC Example'
 
-Sign in board (for Stack easy)
+## available on Chrome
